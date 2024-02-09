@@ -6,12 +6,12 @@ import NewProjectFooter from '../components/newProjectFooter/newprojectfooter'
 //import Lamborghini from '../images/Lamborghini_Terzo_Milleniojpg'
 import Legendary_Studios from '../images/Legendary_Studios.jpg'
 import Sade from '../images/Sade.jpg'
-//import Logo from '../images/Julian_Borner_Logo.jpg'
+
 import workInProgress from '../images/work_in_progress.jpg'
 import Lamborghini from '../images/Lamborghini_Terzo_Millenio.jpg'
 import Link from 'next/link'
-import Personal_Logo from '../images/Julian_Borner_logo.png'
-//import Background from '../images/'
+
+
 
 
 const NewProjects = () => {
