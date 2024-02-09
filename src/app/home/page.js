@@ -3,7 +3,7 @@ import React from 'react'
 import NavBar from '../components/navigation/page'
 //import Footer from '../components/footer/page'
 import HomeFooter from '../components/homeFooter/homefooter'
-import Projects from '../projects/page'
+
 import Image from 'next/image'
 import Link from 'next/link'
 
