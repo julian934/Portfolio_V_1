@@ -13,23 +13,23 @@ const HomeFooter = () => {
     <div className='flex max-sm:w-full max-sm:justify-around max-sm:items-start  max-sm:h-full
       md:w-3/5 md:h-full md:flex md:flex-row md:justify-around md:items-end ' >
         <div className=' md:flex   group-hover:stroke-white md:justify-around md:w-3/4 md:h-full' >
-            <Link className=' md:flex md:w-1/3 md:h-2/5 ' href='/' >
+            <Link className=' md:flex md:w-1/3 md:h-2/5 ' href='https://www.instagram.com/jbthedev' >
                 <Image className='bg-amber-500 hover:bg-white md:w-full border-2 border-white md:h-full md:rounded-xl 
                 max-sm:rounded-xl   ' src={Instagram} alt='Instagram' />
                 </Link>
         </div>
         <div className=' md:flex  group-hover:stroke-white md:justify-around md:w-3/4 md:h-full  ' >
-            <Link className='group-hover:stroke-white md:flex md:w-1/3 md:h-2/5  ' href='/'  >
+            <Link className='group-hover:stroke-white md:flex md:w-1/3 md:h-2/5  ' href='https://www.linkedin.com/in/julian-borner-709b91b7/'  >
                 <Image className='bg-amber-500 hover:bg-white md:w-full border-2 border-white md:rounded-xl max-sm:rounded-xl ' src={LinkedIn} alt='LinkedIn' />
                 </Link>
         </div>
         <div className=' md:flex  group-hover:stroke-white md:justify-around md:w-3/4 md:h-full   ' >
-            <Link className='md:flex md:w-1/3 md:h-2/5  ' href='/' >
+            <Link className='md:flex md:w-1/3 md:h-2/5  ' href='https://github.com/julian934' >
                 <Image className='bg-amber-500 hover:bg-white md:w-full border-2 border-white md:rounded-xl max-sm:rounded-xl ' src={Github} alt='Github' />
                 </Link>
         </div>
         <div className=' md:flex    group-hover:stroke-white md:justify-around md:w-3/4 md:h-full  ' >
-            <Link className='md:flex md:w-1/3 md:h-2/5 ' href='/' >
+            <Link className='md:flex md:w-1/3 md:h-2/5 ' href='/contact' >
                 <Image className='bg-amber-500  hover:bg-white md:w-full border-2 border-white md:rounded-xl max-sm:rounded-xl ' src={Email} alt='Email' />
                 </Link>
         </div>

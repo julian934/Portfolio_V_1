@@ -42,7 +42,7 @@ const Index = () => {
 //Fix Page Deformations
 //Add symbols for about,project,contact & resume
   return (
-    <div className=" max-sm:grid max-sm:grid-cols-4 max-sm:grid-rows-4 max-sm:h-screen
+    <div className=" max-sm:grid max-sm:grid-cols-4 max-sm:grid-rows-4 max-sm:h-screen 
     md:grid  md:grid-cols-6 md:grid-rows-8 h-100vh bg-black max-sm:w-full md:bg-black md:h-screen  " >
     
     {/*<div className=" max-sm:flex max-sm:row-start-1  max-sm:justify-around max-sm:col-start-1 max-sm:col-end-5 grid max-sm:grid-cols-6  md:flex md:grid md:col-start-3 md:col-span-3 md:row-start-1 md:row-end-2 md:grid-cols-4 md:content-center md:space-between md:pt-10 text-yellow-500    " >
